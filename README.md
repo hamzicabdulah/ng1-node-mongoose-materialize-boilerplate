@@ -1,1 +1,1 @@
-# ANGULAR 1 - NODE.JS - MONGOOSE.JS - MATERIALIZE.CSS BOILERPLATE #
+# AngularJS — Node.js — Express.js — Mongoose.js — Materialize.css Starter #
