@@ -1,0 +1,16 @@
+{
+  "name": "ng1-node-mongoose-materialize-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server"
+  },
+  "author": "Abdulah Hamzic <https://github.com/hamzicabdulah>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.2"
+  }
+}
